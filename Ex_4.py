@@ -1,4 +1,4 @@
-"""Exercise 5: Create a Python set such that it shows the element from both lists in a pair
+"""Exercise 4: Create a Python set such that it shows the element from both lists in a pair
 
 Given:"""
 
