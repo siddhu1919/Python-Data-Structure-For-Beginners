@@ -49,3 +49,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your feedback is valuable to us! If you have any questions or comments, please don't hesitate to reach out.
 
 Happy coding! 🎉
+
+![snake gif](https://github.com/siddhu1919/siddhu1919/blob/output/github-contribution-grid-snake.svg)
